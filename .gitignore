@@ -217,5 +217,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Diretórios dos livros do campos natural
+# Diretórios dos livros do campos artifical e natural respectivamente
+CA/
 CN/
